@@ -1,2 +1,2 @@
 # ghost-theme
-Basic versioning for my Ghost theme(s)
+Basic versioning for my Ghost theme(s).
